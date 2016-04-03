@@ -71,5 +71,4 @@ public class Krofna extends Krug {
 		this.unutrasnji = unutrasnji;
 	}
 
-
 }

@@ -112,5 +112,5 @@ public abstract class Oblik implements Pomerljiv {
 	public void setDuzina(int duzina){
 		this.duzina=duzina;
 	}
-
+	
 }
